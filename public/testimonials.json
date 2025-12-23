@@ -1,0 +1,11 @@
+[
+  {"id":1, "text":"Amaxing product! Loved it.", "author":"Alice"},
+  {"id":2, "text":"Incredible support and loyalty.", "author":"Bob"},
+  {"id":3, "text":"Will definitely recommend.", "author":"Carol"},
+  {"id":4, "text":"My go to solution.", "author":"Dave"},
+  {"id":5, "text":"Outstanding experience.", "author":"Eve"},
+  {"id":6, "text":"Transformed my workflow.", "author":"Frank"},
+  {"id":7, "text":"Very user-friendly.", "author":"Grace"},
+  {"id":8, "text":"Affordable and powerful.", "author":"Hank"},
+  {"id":9, "text":"Affordable and powerful. Amaxing product! Loved it. ", "author":"Mwita"}
+]
