@@ -41,6 +41,17 @@ This project focuses on UI structure, component composition, and layout design.
 ## 📸 Screenshots
 
 _Not added yet_
+### Home Page
+![Home Page](screenshots/home.png)
+
+### Job Listings
+![Job Listings](screenshots/listings.png)
+
+### Categories Section
+![Categories](screenshots/categories.png)
+
+### Testimonials
+![Testimonials](screenshots/testimonials.png)
 
 ---
 
